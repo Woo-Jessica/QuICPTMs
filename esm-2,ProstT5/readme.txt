@@ -1,0 +1,1 @@
+Please put the weights of esm-2 and ProstT5 in this directory
